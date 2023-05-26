@@ -32,7 +32,6 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
-Linear Interpolation
 
 
 
@@ -40,16 +39,21 @@ Linear Interpolation
 
 
 
-
-Circular Interpolation
 
 ### output
-
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/dc01b7be-27b1-4a6c-8c1a-f1b5d451937b)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/a1108df7-d6b7-4bb9-8015-765292986bf7)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/76bdca0d-8beb-47d2-9f01-e68105c36883)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/d28e0b3a-f340-4eca-96d7-c30aefe44cce)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/bf7674df-736f-491e-8e4f-54252de52580)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/2525161d-3365-456c-affd-e025646a4c89)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/3f723f4b-519f-4e0f-b84a-56b28b7fd80c)
+![image](https://github.com/VismayaNair/Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-C/assets/93427210/23597e31-e4a1-405a-accc-1f4c0eb93995)
 
 
 
 ### Results 
 
-
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully..
 
  
